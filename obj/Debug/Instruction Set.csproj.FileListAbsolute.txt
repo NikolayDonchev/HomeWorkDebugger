@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Programirane\VS\GitHubLab\Instruction Set\bin\Debug\Instruction Set.exe.config
+C:\Users\User\Desktop\Programirane\VS\GitHubLab\Instruction Set\bin\Debug\Instruction Set.exe
+C:\Users\User\Desktop\Programirane\VS\GitHubLab\Instruction Set\bin\Debug\Instruction Set.pdb
+C:\Users\User\Desktop\Programirane\VS\GitHubLab\Instruction Set\obj\Debug\Instruction Set.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Programirane\VS\GitHubLab\Instruction Set\obj\Debug\Instruction Set.exe
+C:\Users\User\Desktop\Programirane\VS\GitHubLab\Instruction Set\obj\Debug\Instruction Set.pdb
